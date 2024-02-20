@@ -11,6 +11,7 @@ public class GitTestApplication {
         System.out.println("");
         System.out.println("a");
         System.out.println("b");
+        System.out.println("c");
         SpringApplication.run(GitTestApplication.class, args);
     }
 
