@@ -1,7 +1,7 @@
 package com.example.gittest;
 
-public class D {
+public class H {
     public static void main(String[] args) {
-        System.out.println("D");
+        System.out.println("H");
     }
 }
