@@ -1,6 +1,7 @@
 package com.example.gittest;
 
 public class A {
-    public void test() {
+    public void test2() {
+
     }
 }
